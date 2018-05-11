@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleViewPager</string>
+    <string name="first_fragment">First fragment</string>
+</resources>
